@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    // "type": "module",
+    "target": "es5",
+    "module": "commonjs",
+    "sourceMap": true
+  }
+}
